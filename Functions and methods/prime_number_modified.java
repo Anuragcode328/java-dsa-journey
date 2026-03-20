@@ -1,5 +1,5 @@
 import java.util.*;
-public class prime_number {
+public class prime_number_modified {
     public static boolean isPrime(int n){
         boolean a=true;
         // if(n==1){
