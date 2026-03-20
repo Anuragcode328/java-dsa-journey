@@ -18,6 +18,7 @@ public class Pairs_in_array{
             System.out.println();
         }
         System.out.println("Total Pairs : "+tp);
+        //if numer of element in array is n then total number of pairs are : (n*(n-1))/2
 
 
     }
